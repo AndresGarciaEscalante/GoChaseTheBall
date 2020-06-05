@@ -2,7 +2,9 @@
 ## Using Gazabo, Rviz, and ROS
 ## Andres Ricardo Garcia Escalante
 
-<a href="https://imgflip.com/gif/3mz660"><img src="https://i.imgflip.com/3mz660.gif" title="made at imgflip.com"/></a>
+<p align="center">
+  <img width="350" height="350" src="https://i.imgflip.com/3mz660.gif" title="made at imgflip.com">
+</p>
 
 ## Setting up the enviroment:
 For this project the following set up was used:
